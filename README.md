@@ -63,11 +63,13 @@ public:
     // добавить факт изменения фамилии на last_name в год year
     
   }
+  
   string GetFullName(int year) {
   
     // получить имя и фамилию по состоянию на конец года year
     
   }
+  
   string GetFullNameWithHistory(int year) {
   
     // получить все имена и фамилии по состоянию на конец года year
